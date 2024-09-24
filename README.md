@@ -1,5 +1,6 @@
-Ruang Belajar
+# Ruang Belajar
+
 Contributor:
 
-Muhamad Fakhri Syawaluddin - FS10653063
-Bob
+- `<Muhamad Fakhri Syawaluddin> - <FS10653063>`
+- Bob
